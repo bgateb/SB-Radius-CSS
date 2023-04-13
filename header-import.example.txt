@@ -1,0 +1,4 @@
+<style type="text/css">
+	/* IMPORT CSUSB Styles: This workaround allows CSUSB custom styling by uploading our custom CSS file to the Radius File Manager */
+	@import url("https://csusbernardino.radiusbycampusmgmt.com/crm/viewImage?id=3269000000062017&fileName=%2FCSS%2Fcsusb_internal_entry.css");
+</style>
